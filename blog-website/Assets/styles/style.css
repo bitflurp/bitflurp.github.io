@@ -104,3 +104,9 @@ footer {
     padding-right: 4em;
     border-radius: 8px;
 }
+.popuptavern{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
