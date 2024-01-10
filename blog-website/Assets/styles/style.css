@@ -98,6 +98,18 @@ footer {
     right:5px;
     text-align: right;
 }
+
+.blog-button-flipped {
+    background-color: #ffffff00;
+    color: #000000;
+    border: none;
+    border-radius: .25em;
+    position: static;
+    right:5px;
+    text-align: right;
+    transform: scaleX(-1);
+
+}
 .rounded-image img{
     display: block;
     width: 100%;
