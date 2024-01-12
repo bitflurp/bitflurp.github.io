@@ -203,11 +203,11 @@ footer {
 
 .about-us-title{
     font-size: 100px;
-    font: italic;
+    font-family: 'Courier New', Courier, monospace;
     display: flex;
     justify-content: center;
     align-items: center;
-
+    color: #000000;
 }
 .about-us-content{
 
